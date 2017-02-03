@@ -1,0 +1,38 @@
+/* 
+* {
+border: 1px solid rgba(0, 0, 0, 0.3);
+}
+ */
+
+
+h1 {
+font-size: 48px;
+color: white;
+padding: 100px 100px 80px 100px;
+font-family: 'Roboto Condensed', sans-serif;
+text-align: center;
+background: rgba(0, 0, 0, 0.4);
+width: 500px;
+margin: 0 auto;
+}
+
+h2 {
+font-size: 28px;
+text-align: center;
+font-family: 'Roboto Condensed', sans-serif;
+color: white;
+background: rgba(0, 0, 0, 0.4);
+width: 700px;
+margin: 0 auto;
+}
+
+.jumbotron {
+	background: url(file:///Users/Ralph/Documents/Tech_Site_pics/background.jpeg) no-repeat center center;
+	background-size: cover;
+	height:400px;
+	
+}
+
+.nav {
+
+}
